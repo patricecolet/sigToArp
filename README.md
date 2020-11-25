@@ -1,7 +1,7 @@
 # sigToArp
 SigToArp VST FX outputing MIDI arpeggio from a chord detected in audio signal.
 
-Unzip archive into VST plugins folder
+Unzip [sigToArp](https://github.com/patricecolet/sigToArp/raw/main/sigToArp.zip) archive into VST plugins folder
 
 # Installation instruction 
 This plugin is a PureData patch running through Camomile. 
