@@ -12,7 +12,7 @@ https://github.com/pierreguillot/Camomile/wiki/How-to-install-plugins
 # How to use it
 
 In your Daw send audio signal where chords have to be detected at the input of sigToArp,
-and send MIDI outputted by sigToArp to a VST or external MIDI instrument.
+and send MIDI from sigToArp track to a VST or external MIDI instrument.
 
 
 Chord's fundamental must be the lowest note, and fifth must be there for more accuracy.
