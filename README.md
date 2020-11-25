@@ -1,9 +1,10 @@
 # sigToArp
 SigToArp VST FX outputing MIDI arpeggio from a chord detected in audio signal.
 
-Unzip [sigToArp](https://github.com/patricecolet/sigToArp/raw/main/sigToArp.zip) archive into VST plugins folder
 
 # Installation instruction 
+
+Unzip [sigToArp](https://github.com/patricecolet/sigToArp/raw/main/sigToArp.zip) archive into VST plugins folder
 This plugin is a PureData patch running through Camomile. 
 More instruction for every platform are available here:
 
@@ -28,4 +29,5 @@ Hop is the analyzing window size, set it lower to decrease latency, and higher f
 Peaks is the number of partials to detect, set it lower to decrease latency, higher to detect more chords.
 
 Version: 1.0
+
 Author: Patrice Colet
